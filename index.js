@@ -1,7 +1,7 @@
 // create global variables
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateHTML = require('./assets/js/generateHTML');
+const generateHTML = require('./lib/generateHTML');
 
 // JS requirement:
 
