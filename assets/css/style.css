@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* general styling */
+header {
+    background: #e74856;
+    padding: 3%;
+    color: white;
+    text-align: center;
+    font-family: helvetica;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: white;
+}
