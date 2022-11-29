@@ -9,7 +9,7 @@ const Employee = require('./lib/Employee');
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
-const generateHTML = require('./lib/GenerateHTML');
+const generateHTML = require('./src/generateHTML');
 
 // arrays of questions for user input
 const questions = [

@@ -4,7 +4,7 @@
 
 This project allows people to generate an HTML file after answering prompted questions. Users can add a manager, engineer, and intern to the team. Once the prompts are answered, then the HTML file is generated with a card for each teammate.
 
-Find the sample HTML here: 
+Find the sample HTML here: /lib/generateHTML.js
 
 ## Table of Content
 
