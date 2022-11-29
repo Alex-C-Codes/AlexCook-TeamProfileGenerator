@@ -159,7 +159,6 @@ function createCard(teammateType, data) {
 
 // function to initialize app
 function init() {
-
     addManager();
 }
 
